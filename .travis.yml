@@ -26,7 +26,7 @@ script:
 deploy:
   provider: heroku
   api_key:
-    secure: [![Build Status](https://travis-ci.com/yanqing0709/GitProjectPythonUnitest2.svg?branch=master)](https://travis-ci.com/yanqing0709/GitProjectPythonUnitest2)
+    secure: c57b7beb-9239-4605-9e4e-a9bf2bb738a1
   app: gitprojectlab4
   on:
     repo: yanqing0709/GitProjectPythonUnitest2
