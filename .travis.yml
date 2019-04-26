@@ -27,7 +27,7 @@ deploy:
   provider: heroku
   api_key:
     secure: [![Build Status](https://travis-ci.com/yanqing0709/GitProjectPythonUnitest2.svg?branch=master)](https://travis-ci.com/yanqing0709/GitProjectPythonUnitest2)
-  app: test-my-travisci-project
+  app: gitprojectlab4
   on:
     repo: yanqing0709/GitProjectPythonUnitest2
   #Setting your heroku Procfile here!!!
